@@ -1,5 +1,5 @@
 // const kafka = require("kafkajs").kafka
-const { kafka, Kafka } = require("kafkajs")
+const { Kafka } = require("kafkajs")
 
 
 run();
